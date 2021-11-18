@@ -1,0 +1,8 @@
+--
+whitelist = {
+"15XI_Vandk",
+"lugiahack",
+}
+--
+return whitelist
+--
