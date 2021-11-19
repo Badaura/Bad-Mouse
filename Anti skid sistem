@@ -1,6 +1,0 @@
-kick = true
-nm = game.Players.LocalPlayer.Name
-if nm == "lugiahack" or nm == "15XI_Vandk" then
-kick = false
-end
-if kick == true then game:shutdown() end
