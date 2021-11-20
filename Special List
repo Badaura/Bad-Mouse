@@ -1,0 +1,5 @@
+specialist = {
+"lugiahack","pink","betatester",
+}
+
+return specialist
